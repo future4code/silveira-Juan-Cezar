@@ -27,5 +27,6 @@ console.log( "Olá nome,  você tem idade anos");
 
 const race = prompt("Você se considera pardo?");
 const hobbie = prompt("Você é faixa preta?");
+
 const father = prompt("Sua esposa está grávida?");
 
